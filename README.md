@@ -13,7 +13,7 @@ Before you install the tools, You have to know this following.
 * DDOS ATTACK to breack the system, To be work out , Like BOOM
 * So carefully, I remind you to use for Cybersecurity.
 
- Enhanced Features & Ethical Focus for aaayafuj_69_Net.sh
+# Enhanced Features & Ethical Focus for aaayafuj_69_Net.sh
 This script should be a legitimate cybersecurity testing framework that integrates phishing simulations, penetration testing utilities, and network security assessment tools. Here are some ideas to refine and enhance it:
 
 1️⃣ Core Functionalities
